@@ -1,4 +1,4 @@
-# Tutorial-For-Resolver
+# Tutorial-For-Very-Simple-Resolver
 This is a tutorial on how to create a simple resolver for the cheat Legendware. 
 
 
