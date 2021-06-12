@@ -30,6 +30,7 @@ blah blah ablhja blhablalhbhab hahahb
 }
 
 
-Wait for next tutorial where i explain how to make a actually good resolver rather then a shit one.
+
+THIS IS SATIRE, THIS IS A SHIT RESOLVER PLEASE DONT USE THIS FOR A P2C OR SUM
 Any questions? Add me on discord!  handgrenade#0133
 
